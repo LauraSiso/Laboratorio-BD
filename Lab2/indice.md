@@ -1,4 +1,4 @@
-## Ejercicios Laboratorio 1 
+## Ejercicios Laboratorio 2 
 * Diagrama 9: Motorizaciones
 * Diagrama 10: MediosTransportes
 * Diagrama 11: TarjetaEstudiante
